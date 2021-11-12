@@ -1,0 +1,6 @@
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\bin\Debug\Metodo de Gauss-Seidel.exe.config
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\bin\Debug\Metodo de Gauss-Seidel.exe
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\bin\Debug\Metodo de Gauss-Seidel.pdb
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\obj\Debug\Metodo de Gauss-Seidel.csprojResolveAssemblyReference.cache
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\obj\Debug\Metodo de Gauss-Seidel.exe
+c:\users\victormanuel\documents\visual studio 2013\Projects\Metodo de Gauss-Seidel\Metodo de Gauss-Seidel\obj\Debug\Metodo de Gauss-Seidel.pdb
